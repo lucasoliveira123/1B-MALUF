@@ -1,0 +1,44 @@
+body {
+    background-color:#d3d3d31f;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: yellow;
+    background-color: #0931d2;
+}
+
+.texto-principal {
+    margin-right: 20%;
+}
+
+h1 {
+    color: #0931d2;
+    text-align: center;
+}
+h2 {
+    color: rgb(65, 50, 234);
+}
+p {
+    color: blue;
+
+}
+#imagem-principal {
+    width: 10%;
+    margin-left: 80%;
+    border: 5px dotted salmon;
+    float: left;
+    position: absolute;
+}
+
+.itens {
+    color:  #5F9EA0;
+    text-decoration: underline;
+}
+.texto-principal {
+    margin-right: 20%;
+}
